@@ -1,0 +1,12 @@
+﻿  main.cpp
+d:\_project opengl\opengl_demo\opengl_demo\main.cpp(308): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\_project opengl\opengl_demo\opengl_demo\main.cpp(376): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\_project opengl\opengl_demo\opengl_demo\main.cpp(377): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\_project opengl\opengl_demo\opengl_demo\main.cpp(381): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\_project opengl\opengl_demo\opengl_demo\main.cpp(382): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\_project opengl\opengl_demo\opengl_demo\main.cpp(383): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\_project opengl\opengl_demo\opengl_demo\main.cpp(384): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\_project opengl\opengl_demo\opengl_demo\main.cpp(425): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\_project opengl\opengl_demo\opengl_demo\main.cpp(685): warning C4838: conversion from 'FT_Pos' to 'unsigned int' requires a narrowing conversion
+d:\_project opengl\opengl_demo\opengl_demo\main.cpp(950): warning C4018: '<': signed/unsigned mismatch
+  Opengl_demo.vcxproj -> D:\_project OpenGL\Opengl_demo\Debug\Opengl_demo.exe
